@@ -37,7 +37,7 @@
     "ShowUpdate":false,
     "UpdateLink":"",
     "UpdateVersion":6,
-    "ShowMockupData":false,
+    "ShowMockupData":true,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
 "ShowCategories":false
