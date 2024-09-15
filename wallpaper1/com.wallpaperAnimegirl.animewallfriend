@@ -46,7 +46,7 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.wallpaperAnimegirl.animewallfriend.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
     "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
     "MonthlyPrice":"$3.99 / Month",
@@ -62,7 +62,7 @@
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.wallpaperAnimegirl.animewallfriend.Lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
