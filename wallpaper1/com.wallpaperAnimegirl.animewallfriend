@@ -37,7 +37,7 @@
     "ShowUpdate":false,
     "UpdateLink":"",
     "UpdateVersion":6,
-    "ShowMockupData":false,
+    "ShowMockupData":true,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
 "ShowCategories":false
@@ -48,15 +48,15 @@
     "ShowTrial":true,
     "LifeTimeSKu":"com.wallpaperAnimegirl.animewallfriend.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
+    "MonthlySKu":"com.wallpaperAnimegirl.animewallfriend.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.wallpaperAnimegirl.animewallfriend.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.wallpaperAnimegirl.animewallfriend.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
