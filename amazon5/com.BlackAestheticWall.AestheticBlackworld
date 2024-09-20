@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.BlackAestheticWall.AestheticBlackworld.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
+    "MonthlySKu":"com.BlackAestheticWall.AestheticBlackworld.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.BlackAestheticWall.AestheticBlackworld.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.BlackAestheticWall.AestheticBlackworld.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.BlackAestheticWall.AestheticBlackworld.Lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
