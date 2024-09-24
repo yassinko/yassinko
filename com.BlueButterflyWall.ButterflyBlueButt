@@ -37,7 +37,7 @@
     "ShowUpdate":false,
     "UpdateLink":"",
     "UpdateVersion":6,
-    "ShowMockupData":false,
+    "ShowMockupData":true,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
 "ShowCategories":false
@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.BlueButterflyWall.ButterflyBlueButt.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
+    "MonthlySKu":"com.BlueButterflyWall.ButterflyBlueButt.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.BlueButterflyWall.ButterflyBlueButt.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.BlueButterflyWall.ButterflyBlueButt.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.BlueButterflyWall.ButterflyBlueButt.Lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
