@@ -11,3 +11,14 @@
     "mintegralnativeplacement":"290656"
   }
 }
+    },
+  "AppControl":{
+    "OnesignalID":"600682f2-6f05-48a3-9415-35f147b5a29b",
+    "ShowUpdate":false,
+    "UpdateLink":"",
+    "UpdateVersion":6,
+    "ShowMockupData":false,
+    "UpdateFromAmazon":true,
+    "ShowRewardAndSubscribe":true,
+"ShowCategories":false
+  },
