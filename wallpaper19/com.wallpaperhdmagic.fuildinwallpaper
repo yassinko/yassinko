@@ -9,9 +9,7 @@
     "mintegralinterstitialplacement":"290653",
     "mintegralnativeunit":"462377",
     "mintegralnativeplacement":"290656"
-  }
-}
-    },
+    },{
   "AppControl":{
     "OnesignalID":"600682f2-6f05-48a3-9415-35f147b5a29b",
     "ShowUpdate":false,
@@ -20,5 +18,4 @@
     "ShowMockupData":true,
     "UpdateFromAmazon":true,
     "ShowRewardAndSubscribe":true,
-"ShowCategories":false
   },
