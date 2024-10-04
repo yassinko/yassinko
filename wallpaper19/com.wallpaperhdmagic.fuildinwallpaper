@@ -12,7 +12,5 @@
 },{
   "AppControl":{
     "UpdateVersion":6,
-    "ShowMockupData":true,
     "UpdateFromAmazon":true,
-    "ShowRewardAndSubscribe":true,
- },
+},
