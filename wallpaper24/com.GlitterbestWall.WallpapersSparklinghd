@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.GlitterbestWall.WallpapersSparklinghd.Lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.FluidLiveWallpaper.FluidliveAK.monthly",
+    "MonthlySKu":"com.GlitterbestWall.WallpapersSparklinghd.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.GlitterbestWall.WallpapersSparklinghd.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.FluidLiveWallpaper.FluidliveAK.year",
+    "AnnualSKu":"com.GlitterbestWall.WallpapersSparklinghd.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.FluidLiveWallpaper.FluidliveAK.lifetime",
+    "LifeTimeSKu":"com.GlitterbestWall.WallpapersSparklinghd.Lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
