@@ -1,0 +1,31 @@
+{
+  "AppControl": {
+    "ShowScreensavers": true,
+    "ShowFeatured": true,
+    "ShowCategories": true,
+    "ShowSearch": true,
+    "ShowFavorites": true,
+    "ShowRecentlyUsed": true
+  },
+
+  "Screensavers": [
+    {
+      "id": "fire_cinematic_01",
+      "title": "Nordic Fireplace",
+      "category": "Fire",
+      "thumbnail": "https://www.istockphoto.com/photos/fire-on-black",
+      "videoUrl": "https://files.catbox.moe/46v0nz.mp4",
+      "description": "Warm ambient logs burning in a Nordic cabin.",
+      "resolution": "4K UHD"
+    },
+    {
+      "id": "ocean_cinematic_01",
+      "title": "Pacific Waves",
+      "category": "Ocean",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=1200",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "description": "Slow motion waves crashing on the Pacific coast.",
+      "resolution": "Full HD"
+    }
+  ]
+}
