@@ -1,11 +1,11 @@
 {
   "AppControl": {
-    "ShowScreensavers": true,
-    "ShowFeatured": true,
-    "ShowCategories": true,
-    "ShowSearch": true,
-    "ShowFavorites": true,
-    "ShowRecentlyUsed": true
+    "ShowScreensavers": flase,
+    "ShowFeatured": flase,
+    "ShowCategories": flase,
+    "ShowSearch": flase,
+    "ShowFavorites": flase,
+    "ShowRecentlyUsed": flase
   },
 
   "Screensavers": [
