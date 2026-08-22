@@ -5,7 +5,7 @@
     "ShowCategories": false,
     "ShowSearch": false,
     "ShowFavorites": false,
-    "ShowRecentlyUsed": false
+    "ShowRecentlyUsed": true
   },
 
   "Screensavers": [
